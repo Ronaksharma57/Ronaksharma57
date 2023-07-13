@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RONAK SHARMA</h1>
+<h1 align="center">Hi 👋, I'm Ronak Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on [Netflix India](https://ronaksharma57.github.io/MCT/)
